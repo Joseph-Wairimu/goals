@@ -1,4 +1,10 @@
 export class Goal {
+    static push(goal: any) {
+      throw new Error('Method not implemented.');
+    }
+    static splice(index: any, arg1: number) {
+      throw new Error('Method not implemented.');
+    }
 
     // id: number;
     // name: string;
